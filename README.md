@@ -22,5 +22,7 @@ Difficulties -
 Getting each boid to individualy be affected by both the obstacles and the moving bigger boid
 Getting the bigger boid to reset each time I moved the obstacles without messing with the planned path
 When testing the path and visually the nodes the screan was so cluttered because of the few amount of obstacles I was using
+I tried to get the big boid to chase after one of the specific random flocking boids but I built my boid class based on a precisting library that 
+treated the boids as a single group and made it very hard to assign individuality.
 
-Libraries - A modified version of Boids by Craig Reynolds Boids artificial life program
+Libraries - A modified version of Boids by Craig Reynolds Boids artificial life program found in the examples for programming.org
